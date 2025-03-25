@@ -1,4 +1,6 @@
 nginx
+redis
+mysql
 frooodle/s-pdf
 etherpad/etherpad
 excalidraw/excalidraw
